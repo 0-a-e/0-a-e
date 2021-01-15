@@ -18,5 +18,5 @@
 
 | [<img src="https://img.icons8.com/color/50/000000/twitter-circled.png"/>](http://twitter.com/0_a_e/) | [<img src="https://img.icons8.com/bubbles/48/000000/home-page.png"/>](https://0-a-e.online) | [<img src="https://img.icons8.com/color/50/000000/circled-envelope.png"/>](mailto:0ae@protonmail.com) |
 |:---:|:---:|:---:|
-| | [<img src="https://github.com/0-a-e/0-a-e/blob/main/favicon.png?raw=true" height="42px" width="42px" />](https://qiita.com/0-a-e) |
+| | [<img src="https://github.com/0-a-e/0-a-e/blob/main/favicon.png?raw=true" height="42px" width="42px" />](https://qiita.com/0_a_e) |
 </div>
