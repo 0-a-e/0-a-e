@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" align="center" alt="GIF" height="250px"/>
+ 
 [![card1](https://github-readme-stats.vercel.app/api?username=0-a-e&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=ja&a&count_private=true&hide=contribs)](#)
 ***
 [![card2](https://github-readme-stats.vercel.app/api/top-langs/?username=0-a-e&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=ja)](#)
